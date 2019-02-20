@@ -7,11 +7,7 @@ Go 1.11.
 ## Running
 
 ```
-go get golang.org/x/tour
-```
-
-```
-tour
+go run .
 ```
 
 # Implementation
